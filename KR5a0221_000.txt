@@ -1,7 +1,9 @@
-# -*- mode: mandoku-view; -*-
-#+DATE: 2015-08-28 23:42:24.842763
+# -*- mode: mandoku-view -*-
 #+TITLE: 無上玄元三天玉堂大法
-#+PROPERTY: DZID  DZ0220
-#+PROPERTY: SOURCE  正統道藏，三家本，1988，4—1 三十卷 洞真部方法類
+#+DATE: 2015-08-28 23:42:32
+#+PROPERTY:  LASTPB <PB KR5a0221_SJB_030-040114a>
 #+PROPERTY: BASEEDITION HFL
-#+PROPERTY: WITNESS HFL
+#+PROPERTY: WITNESS ZTDZ
+#+PROPERTY: JUAN 0
+¶¶¶<md:KR5a0221_HFL_030-025b>¶¶¶¶¶¶¶¶¶¶¶
+
